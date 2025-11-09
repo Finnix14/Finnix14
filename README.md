@@ -12,6 +12,7 @@
 - 📫 How to reach me **finnyedev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+(https://www.youtube.com/@FinleyNyeDev/videos) [https://www.youtube.com/@FinleyNyeDev/videos]
 <p align="left">
 </p>
 
