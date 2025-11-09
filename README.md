@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Finley Nye</h1>
 <h3 align="center">Student Developer</h3>
 
-- 🔭 I’m currently working on [Western Shooter!](https://github.com/Finnix14/Western-Shooter)
+- 🔭 I’m currently working on [CI517_Game_Engine_Fundamentals!](https://github.com/Finnix14/CI517_Game_Engine_Fundamentals)
 
 - 🌱 I’m currently learning **C++, JavaScript**
 
