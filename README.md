@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Finley Nye</h1>
 <h3 align="center">Student Developer - University of Brighton, Studying Computer Science for Games!</h3>
 
-- 🔭 I’m currently working on [CI517_Game_Engine_Fundamentals!](https://github.com/Finnix14/CI517_Game_Engine_Fundamentals)
+- 🔭 I’m currently working on [CI536 Integrated Group Project](https://github.com/Finnix14/CI536_Integrated_Group_Project)
 
-- 🌱 I’m currently learning **C++, JavaScript**
+- 🌱 I’m currently learning **C++, JavaScript, Extending Knowledge In UE5 Blueprints**
 
-- 👨‍💻 All of my projects are available at [https://fn170.brighton.domains/projects.html](https://fn170.brighton.domains/projects.html)
+- 👨‍💻 All of my projects are available at [https://finleynyedev.com/projects](https://finleynyedev.com/projects)
 
 - 💬 Ask me about **Unity, C#**
 
